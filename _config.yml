@@ -23,9 +23,8 @@ projects:
   limit: 1
   exclude:
     archived: false
-    forks: true
-    projects: ts
-    projects: test
+    forks: false
+    projects: ts,test
     # - repo-name
 
 # social_media:

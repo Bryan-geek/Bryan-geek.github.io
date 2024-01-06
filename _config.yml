@@ -46,14 +46,18 @@ projects:
 # youtube: your_username
 
 topics:
-  - name: Python
+  - name: Python Programming
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
-  - name: Database
+  - name: R Programming
+    web_url: https://www.r-project.org/about.html
+    image_url: https://www.r-project.org/Rlogo.png
+
+  - name: Database Management
     web_url: https://github.com/topics/database
     image_url: https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Data Science
+    web_url: https://www.ibm.com/topics/data-science
+    image_url: https://imageio.forbes.com/specials-images/imageserve/615a844b0e678d9d11c5fc26/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds

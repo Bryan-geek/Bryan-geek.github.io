@@ -24,7 +24,7 @@ projects:
   exclude:
     archived: false
     forks: false
-    projects: ts,test,bryan-alot.github.io
+    projects: bryan-alot.github.io
     # - repo-name
 
 # social_media:

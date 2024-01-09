@@ -46,6 +46,10 @@ projects:
 # youtube: your_username
 
 topics:
+  - name: Data Science
+    web_url: https://www.ibm.com/topics/data-science
+    image_url: https://insidebigdata.com/wp-content/uploads/2019/04/DataScience_shutterstock_1054542323.jpg
+
   - name: Python Programming
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
@@ -54,10 +58,6 @@ topics:
     web_url: https://www.r-project.org/about.html
     image_url: https://www.r-project.org/Rlogo.png
 
-  - name: Database Management
+  - name: Database Management Systems
     web_url: https://github.com/topics/database
     image_url: https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png
-
-  - name: Data Science
-    web_url: https://www.ibm.com/topics/data-science
-    image_url: https://insidebigdata.com/wp-content/uploads/2019/04/DataScience_shutterstock_1054542323.jpg

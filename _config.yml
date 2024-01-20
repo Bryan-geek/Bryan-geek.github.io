@@ -20,7 +20,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 2
+  limit: 4
   exclude:
     archived: false
     forks: false
